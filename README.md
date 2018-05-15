@@ -9,7 +9,7 @@ I only have two solid weeks of actual free time, the rest of the time I'll be in
 - [ ] Learn the tools people use in the real world
 - [ ] Make something cool involving a backend, frontend, and a mobile app
 - [ ] Learn me some math (Get ahead in cs170? Galois theory? Topology? Set Theory?)
-- [ ] Make my [Personal Website](http://gauravity.com) better (aesthetically, use ssl, update with new projects)
+- [ ] Make my [Personal Website](http://gauravity.com) better (aesthetically, use SSL, update with new projects)
 - [ ] Maintain my relationsihps with the people I met in college
 - [ ] Get to know my Indian relatives better
 - [ ] Write a little
@@ -20,9 +20,9 @@ I only have two solid weeks of actual free time, the rest of the time I'll be in
 
  ## Goals: Week by Week
 **5/14 - 5/18**
-- [ ] Chil with friends
+- [ ] Chill with friends
 - [ ] Somehow incorporate websockets/go with my jeopardy app
-- [ ] Finish The Death and Life of Great American Cities
+- [ ] Finish *The Death and Life of Great American Cities*
 - [ ] Write a reflection on my first year of college
 - [ ] Learn to make more food
 - [ ] Set up my personal website with SSL
