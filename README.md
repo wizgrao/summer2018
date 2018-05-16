@@ -25,4 +25,4 @@ I only have two solid weeks of actual free time, the rest of the time I'll be in
 - [ ] Finish *The Death and Life of Great American Cities*
 - [ ] Write a reflection on my first year of college
 - [ ] Learn to make more food
-- [ ] Set up my personal website with SSL
+- [x] Set up my personal website with SSL
